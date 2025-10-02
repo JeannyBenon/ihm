@@ -1,3 +1,5 @@
+**tp1**
+
 ##— En donnant la définition d’un besoin utilisateur, justifiez ceux ou celui auquel vous répondez dans l’interface ou les interfaces que vous êtes en train de concevoir sur Figma.
 
 La définition d'un  besoin utilisateur est: un besoin utilisateur est une exigence fonctionnelle ou non fonctionnelle exprimée (ou implicite) par un utilisateur final. il correspond à:
@@ -46,6 +48,7 @@ La définition de calque est: dans figma (ou layer) est une unité fondamentale 
 La définition de composants est: un composants est un réutilisables dans figma (ex.bouton, icône, crte d'articl).
 Il sert de modèle: chaque copie (instance) garde un lien avec le composant principal.
 Modifier le composant principal met automatiquement à jour toutes ses instantces, ce qui garantit la cohérence.
+
 
 
 
