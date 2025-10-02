@@ -30,7 +30,6 @@ Cependant, je reconnais que je n’ai pas formalisé toute l'analyse des besoins
 Ainsi, même si j’ai avancé sur le prototypage, je complète maintenant les étapes précédentes pour rester fidèle au processus du Design Centré Utilisateur.  
 
 ##— Ajoutez à votre projet Figma des observateurs. Quel principe fondamental du UserCentered Design (UCD) appliquez-vous ?
-
 voici le link afin de pouvoir observer mon projet figma:
 https://www.figma.com/design/QokrUpAFzvH4f6HCUM30yE/plt?node-id=1-2&t=fiZJEbgcldg6SeNF-1
 
@@ -40,4 +39,13 @@ Avec cette possibilité d'observer le projet j'applique le principe de l'implica
 d’utilisation de ces calques. Si en vérifiant votre travail de maquettage je me rends compte
 que les bonnes pratiques ne sont pas respectées ce sera moins 3 points
 
-Dans figma (ou layer) est une unité fondamentale de travail qui représente un élément individuel de la conception. Chaque forme, texte, image ou groupe est placé sur un calque. Les
+La définition de calque est: dans figma (ou layer) est une unité fondamentale de travail qui représente un élément individuel de la conception. Chaque forme, texte, image ou groupe est placé sur un calque. Les calques fonctionnent comme des feuilles superposées: l'ordre dans lequel ils apparaissent détermine la manière dont ils se recouvrent visuellement dans l'interface.
+
+#— En vous aidant du cours sur les composants, donnez la définition d’un composant (réutilisable).
+
+La définition de composants est: un composants est un réutilisables dans figma (ex.bouton, icône, crte d'articl).
+Il sert de modèle: chaque copie (instance) garde un lien avec le composant principal.
+Modifier le composant principal met automatiquement à jour toutes ses instantces, ce qui garantit la cohérence.
+
+
+
