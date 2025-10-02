@@ -1,0 +1,19 @@
+.md
+## 1. Besoin utilisateur
+La définition d'un  besoin utilisateur est: un besoin utilisateur est une exigence fonctionnelle ou non fonctionnelle exprimée (ou implicite) par un utilisateur final. il correspond à:
+_ une tâche a réaliser,
+_ un objectif à atteindre,
+_une contrainte à respecter,
+_ dans un contexte d'usage donné.
+Dans le cas de mon interface (application mobile de vêtements en ligne), 
+le besoin principal auquel je réponds est: trouver et acheter des vêtement facilement depuis son téléphone.
+
+## Processus du Design Centré Utilisateur
+
+1. **Analyse des besoins et du contexte** – Identification des utilisateurs cibles. Étude des tâches à accomplir. Observation et interviews.  
+
+2. **Spécification des exigences** – Définition des objectifs fonctionnels et ergonomiques. Identification des contraintes techniques et humaines.  
+
+3. **Conception et prototypage** – Création de wireframes (basse fidélité). Développement de maquettes haute fidélité (ex. avec Figma). Prototypage interactif.  
+
+4. **Évaluation et tests utilisateurs** – Scénarios d’usage testés avec de vrais utilisateurs. Collecte de feedback. Ajustements et itérations.  
